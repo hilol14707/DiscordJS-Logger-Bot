@@ -1,2 +1,3 @@
 # DiscordJS-Logger-Bot
-THIS IS COMING SOON CHECK BACK on June 1st, 2018
+A Discord.JS bot that is intended to record messages sent in a Discord server into a message-log.
+This is a work in progress.

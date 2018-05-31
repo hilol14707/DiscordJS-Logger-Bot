@@ -19,7 +19,7 @@ client.on("message", msg => {
     if (msg.author.id === JSONconfig.owner) {
         if (msg.content === JSONconfig.prefix + "restart") {
             msg.react("👍");
-            console.log("restarting..")
+            console.log("restarting...")
             client.destroy();
             client.login(JSONconfig.token);
         }
