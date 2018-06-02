@@ -14,4 +14,10 @@ Fill in the information in the 'config.json' file with the corresponding informa
 - Go to the "Appearance" Section and scroll all the way to the bottom.<br>
 - Enable "Developer Mode" then exit settings.<br>
 - Send something into chat, right click your profile picture in chat and click "Copy ID."<br>
-- This is your Discord ID and if your are the owner of this bot put it into there.<br>
+- This is your Discord ID and if you are the owner of this bot put it into there.<br>
+To run this bot locally download Node.js [https://nodejs.org/en/](https://nodejs.org/en/ "Node.js Download")<br>
+- Follow the installation file's directions.<br>
+- Go to where you installed the bots files.<br>
+- Hold down the left Shift key and right click and Click "Open Windows Powershell Here" or "Open Command Prompt Here."<br>
+- Then type into the Command Prompt/Windows Powershell "npm install discord.js" without the quotes.<br>
+- Finally, click on the "start.bat" file and the bit should be running.
