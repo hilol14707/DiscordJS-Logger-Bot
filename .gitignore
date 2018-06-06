@@ -1,2 +1,3 @@
 #dont track these files
 config.json
+node_modules
