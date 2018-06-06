@@ -1,5 +1,6 @@
 {
-    "token": "YOUR-BOT-TOKEN-HERE",
-    "prefix": "CHOOSE-A-PREFIX-FOR-YOUR-BOT-HERE",
-    "owner": "THE-BOTS-OWNER'S-ID-HERE"
+    "token": "NDUxMTQzMDk5MTIxNjY0MDAx.9QrxBAeJAJiLnRSDR7zh2pUUYl4",
+    "prefix": "!",
+    "owner": "1837746997786050570",
+    "logChannel": 452611756179718154
 }
