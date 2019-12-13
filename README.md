@@ -1,3 +1,6 @@
+# INCOMPLETE
+THIS PROJECT IS NO LONGER BEING WORKED ON, BOT FILES WILL NOT BE UPDATED
+
 # DiscordJS-Logger-Bot README
 A Discord.JS bot that is intended to record messages sent in a Discord server into a message-log.<br>
 This is a work in progress.<br>
